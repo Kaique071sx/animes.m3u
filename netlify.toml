@@ -1,0 +1,4 @@
+[[headers]]
+  for = "/*.m3u"
+  [headers.values]
+    Content-Type = "application/octet-stream"
